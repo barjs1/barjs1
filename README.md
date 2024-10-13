@@ -1,4 +1,5 @@
-[![MasterHead](https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&w=600)
+[![MasterHead](https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 <h1 align="center">Hi 👋, I'm Tolga Barış Anlı</h1>
 <h3 align="center">I AM STUDYING COMPUTER ENGINEERING AT SİVAS CUMHURİYET UNIVERSITY</h3>
 
@@ -8,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tolga bari̇s anli̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolga bari̇s anli̇" height="30" width="40" /></a>
-<a href="https://fb.com/tolgabari̇sanli̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tolgabari̇sanli̇" height="30" width="40" /></a>
-<a href="https://instagram.com/tolgabari̇sanli̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tolgabari̇sanli̇" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/tolga-barış-anlı-44670b215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tolga-barış-anlı-44670b215" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/tolgabarisanli_/profilecard/?igsh=mtniajlnn2hmcdhkcq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tolgabarisanli_/profilecard/?igsh=mtniajlnn2hmcdhkcq==" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tolga bariş anli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tolga bariş anli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
