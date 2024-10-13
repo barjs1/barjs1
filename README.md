@@ -1,23 +1,23 @@
-### Hi there 👋, my name is Tolga Barış 
-#### I am a computer engineer.
-![I am a computer engineer.](https://img.freepik.com/free-vector/twitch-banner-template-science-research_23-2150232953.jpg?w=1380&t=st=1728819988~exp=1728820588~hmac=2e17e7f9b020633a706eb35cbaf70381ee2af742f41f55d512d7d4f899780974)
+[![MasterHead](https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&w=600)
+<h1 align="center">Hi 👋, I'm Tolga Barış Anlı</h1>
+<h3 align="center">I AM STUDYING COMPUTER ENGINEERING AT SİVAS CUMHURİYET UNIVERSITY</h3>
 
-Hello I'm Tolga Barış Anlı 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barjs1&label=Profile%20views&color=0e75b6&style=flat" alt="barjs1" /> </p>
 
-Skills: JAVA/FLUTTER/KOTLİN/SQL
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barjs1" alt="barjs1" /></a> </p>
 
-- 🔭 I’m currently working on this page. 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tolga bari̇s anli̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolga bari̇s anli̇" height="30" width="40" /></a>
+<a href="https://fb.com/tolgabari̇sanli̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tolgabari̇sanli̇" height="30" width="40" /></a>
+<a href="https://instagram.com/tolgabari̇sanli̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tolgabari̇sanli̇" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/barjs1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tolga-barış-anlı-44670b215/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tolgabarisanli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tolgabarisanli_/profilecard/?igsh=MTNiajlnN2hmcDhkcQ==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/barjs1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/tolga)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barjs1&show_icons=true&locale=en&layout=compact" alt="barjs1" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=barjs1)](https://github.com/ryo-ma/github-profile-trophy)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barjs1&show_icons=true&locale=en" alt="barjs1" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barjs1)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=barjs1&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/barjs1)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=barjs1)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barjs1&" alt="barjs1" /></p>
