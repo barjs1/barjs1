@@ -1,4 +1,4 @@
-![MasterHead]([https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://images.alphacoders.com/924/924475.jpg))
+![MasterHead]([[https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://images.alphacoders.com/924/924475.jpg)](https://images2.alphacoders.com/924/thumbbig-924474.webp))
 
 <h1 align="center">Hi 👋, I'm Tolga Barış Anlı</h1>
 <h3 align="center">I AM STUDYING COMPUTER ENGINEERING AT SİVAS CUMHURİYET UNIVERSITY</h3>
